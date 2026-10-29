@@ -7,6 +7,7 @@ One folder per app, each self-contained (its own assets), linked from `index.htm
 
 | App | Home | Privacy | Support |
 |---|---|---|---|
+| Repe | [/policies/repe/](https://mkiperszmid.github.io/policies/repe/) | [privacy](https://mkiperszmid.github.io/policies/repe/privacy/) | [support](https://mkiperszmid.github.io/policies/repe/support/) |
 | Tabiya | [/policies/tabiya/](https://mkiperszmid.github.io/policies/tabiya/) | [privacy](https://mkiperszmid.github.io/policies/tabiya/privacy/) | [support](https://mkiperszmid.github.io/policies/tabiya/support/) |
 
 To add an app: create `<app>/` with `index.html`, `privacy/index.html`, `support/index.html`
